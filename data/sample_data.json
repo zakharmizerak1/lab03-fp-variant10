@@ -1,0 +1,8 @@
+[
+  {"id": 101, "name": "Андрій Коваль", "matches": [{"opponent": "Леви", "points": 20, "assists": 5, "rebounds": 6}, {"opponent": "Титани", "points": 22, "assists": 4, "rebounds": 8}], "roles": ["captain", "forward"], "profile": {"team": "ФЕКТ", "season": "2026"}},
+  {"id": 102, "name": "Максим Бойко", "matches": [{"opponent": "Леви", "points": 18, "assists": 6, "rebounds": 5}], "roles": ["guard"], "profile": {"team": "ФЕКТ", "season": "2026"}},
+  {"id": 103, "name": "Олег Мельник", "matches": [{"opponent": "Леви", "points": 15, "assists": 3, "rebounds": 9}, {"opponent": "Титани", "points": 16, "assists": 5, "rebounds": 7}], "roles": ["center"], "profile": {"team": "ФЕКТ", "season": "2026"}},
+  {"id": 104, "name": "Іван Шевчук", "matches": [], "roles": ["reserve"], "profile": {"team": "ФЕКТ", "season": "2026"}},
+  {"id": 105, "name": "Данило Сидоренко", "matches": [{"opponent": "Леви", "points": 23, "assists": 6, "rebounds": 3}, {"opponent": "Титани", "points": 18, "assists": 7, "rebounds": 4}], "roles": ["captain", "guard"], "profile": {"team": "ФЕКТ", "season": "2026"}},
+  {"id": 106, "name": "Назар Петренко", "matches": [{"opponent": "Леви", "points": 10, "assists": 2, "rebounds": 5}], "roles": ["forward"], "profile": {"team": "ФЕКТ", "season": "2026"}}
+]
